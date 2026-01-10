@@ -1,6 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "api/cancel_appointment_cal.js", "use": "@vercel/node" }
-  ]
-}
