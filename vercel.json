@@ -1,7 +1,6 @@
 {
   "version": 2,
   "builds": [
-    { "src": "api/cancel-appointment-cal.js", "use": "@vercel/node" }
-  ],
-  "buildCommand": "echo Building serverless function"
+    { "src": "api/cancelAppointment.js", "use": "@vercel/node" }
+  ]
 }
